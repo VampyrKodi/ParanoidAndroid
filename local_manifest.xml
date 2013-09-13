@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="CyanogenMod/android_device_samsung_n8013" path="device/samsung/n8013" remote="github" revision="cm-10.1" />
+  <project name="CyanogenMod/android_device_samsung_n8000" path="device/samsung/n8000" remote="github" revision="cm-10.1" />
+  <project name="CyanogenMod/android_device_samsung_n80xx-common" path="device/samsung/n80xx-common" remote="github" revision="cm-10.1" />
+  <project name="CyanogenMod/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" revision="cm-10.1" />
+  <project name="ParanoidAndroid/android_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" remote="github" revision="cm-10.1" />
+  <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-10.1" />
+  <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-10.1" />
+  <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-10.1" />
+  <project name="ParanoidAndroid/android_packages_apps_ParanoidWallpapers" path="packages/apps/ParanoidWallpapers" remote="github" revision="jellybean" />
+  <project name="CyanogenMod/android_packages_apps_Apollo" path="packages/apps/Apollo" remote="github" revision="cm-10.1" />
+  <project name="CyanogenMod/android_packages_apps_DSPManager" path="packages/apps/DSPManager" remote="github" revision="cm-10.1" />
+  <project name="CyanogenMod/android_packages_apps_LockClock" path="packages/apps/LockClock" remote="github" revision="cm-10.1" />
+  <project name="CyanogenMod/android_packages_apps_Torch" path="packages/apps/Torch" remote="github" revision="cm-10.1" />
+  <project name="/VampyrKodi/ParanoidAndroid/android_vendor_pa" path="vendor/pa" remote="github" revision="jellybean-legacy" />
+</manifest>
